@@ -1,0 +1,13 @@
+data/
+models/
+*.db
+*.csv
+*.pkl
+app.log
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.idea/
+.env
